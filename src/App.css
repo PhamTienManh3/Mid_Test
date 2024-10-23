@@ -1,0 +1,14 @@
+#root {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background: #192026;
+  max-width: 1440px;
+  color: whitesmoke;
+  /* height: 1350px; */
+  }
+

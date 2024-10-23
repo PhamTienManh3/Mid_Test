@@ -1,0 +1,48 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 48px;
+    align-items: center;
+    color: #868686;
+    gap: 141px;
+}
+.header p {
+    margin: 0px;
+    /* font-weight: 400; */
+}
+.header h1 {
+    margin: 0;
+    color: white;
+   
+    cursor: pointer;
+}
+.header a {
+    text-decoration: none;
+}
+#formAnime {
+    background-color: #374151;
+    border-radius: 37px;
+    font-weight: 400;
+    color: white;
+    padding: 8px 100px 8px 18px;
+    text-indent: 10px;
+    font-size: 18px;
+    border: none;
+    margin-right: 0 !important;
+    
+    
+}
+#formAnime::placeholder {
+    color: #868686;
+    font-weight: 400;
+    font-size: 18px;
+    
+    
+
+    
+}
+.d-flex {
+    width: 375px;
+    height: 48px;
+    margin: 0;
+}

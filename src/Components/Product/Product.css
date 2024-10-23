@@ -1,0 +1,31 @@
+.movie-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+  
+  .movie-card img {
+    height: 253px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .card-body {
+    text-align: center;
+    background-color:#192026;
+    color: white;
+    padding: 10px;
+  }
+  
+  .episode-text {
+    font-size: 14px;
+    margin: 0;
+    color: white;
+  }
+  
+  .movie-title {
+    font-size: 16px;
+    margin: 5px 0 0 0;
+    color: white;
+  }
+  

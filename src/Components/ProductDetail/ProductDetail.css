@@ -1,0 +1,17 @@
+.movie-info {
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 20px;
+    border-radius: 0 0 10px 10px; 
+  }
+  
+  .card-title {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .card-text {
+    margin: 10px 0 0 0;
+    font-size: 16px;
+  }
+  
