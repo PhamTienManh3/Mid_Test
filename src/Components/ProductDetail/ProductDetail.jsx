@@ -22,7 +22,7 @@ const ProductDetail = (props) => {
 
   return (
     <div className="card mb-5" style={introduce}>
-      <div className="card-body text-center movie-info">
+      <div className="text-center movie-info">
         <h2 className="card-title">{movieName}</h2>
         <p className="card-text">{description}</p>
       </div>
